@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Первый коммит!");
         System.out.println("Здесь новая домашняя работа!");
+        System.out.println("Строка 1!");
         System.out.println("Строка 2!");
     }
 }
